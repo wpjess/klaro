@@ -110,7 +110,6 @@ Deleting the plugin from WordPress runs `uninstall.php`, which removes the `klar
 ## License
 
 - **Klaro** is [BSD-3-Clause](https://github.com/kiprotect/klaro/blob/main/LICENSE).
-- This WordPress wrapper follows the same license unless you specify otherwise in your repository.
 
 ## References
 
